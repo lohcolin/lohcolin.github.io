@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:900|Roboto+Mono:300,400,700);@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 @font-face {
     font-family: 'SFProDisplay';
-    src: url(https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Heavy.woff2) format('woff2'),
-    url(https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Heavy.woff) format('woff');
+    src: url(/assets/transfonter.org-20210821-014225/SFProDisplay-Heavy.woff2) format('woff2'),
+    url(/assets/transfonter.org-20210821-014225/SFProDisplay-Heavy.woff) format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url(https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-BlackItalic.woff2) format('woff2'),
-    url(https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-BlackItalic.woff) format('woff');
+    src: url(/assets/transfonter.org-20210821-014225/SFProDisplay-BlackItalic.woff2) format('woff2'),
+    url(/assets/transfonter.org-20210821-014225/SFProDisplay-BlackItalic.woff) format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -19,8 +19,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-HeavyItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-HeavyItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-HeavyItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-HeavyItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -28,8 +28,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Bold.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Bold.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Bold.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -37,8 +37,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Black.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Black.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Black.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -46,8 +46,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-BoldItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-BoldItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-BoldItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -55,8 +55,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-LightItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-LightItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-LightItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -64,8 +64,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Light.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Light.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Light.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -73,8 +73,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-MediumItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-MediumItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-MediumItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -82,8 +82,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Medium.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Medium.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Medium.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -91,8 +91,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Regular.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Regular.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Regular.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -100,8 +100,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Semibold.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Semibold.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Semibold.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Semibold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -109,8 +109,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Thin.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Thin.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Thin.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -118,8 +118,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-SemiboldItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-SemiboldItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-SemiboldItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-SemiboldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -127,8 +127,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-ThinItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-ThinItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-ThinItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-ThinItalic.woff') format('woff');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -136,8 +136,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-RegularItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-RegularItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-RegularItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-RegularItalic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -145,8 +145,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Ultralight.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-Ultralight.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-Ultralight.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-Ultralight.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -154,8 +154,8 @@
 
 @font-face {
     font-family: 'SFProDisplay';
-    src: url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-UltralightItalic.woff2') format('woff2'),
-    url('https://lohcolin.github.io/assets/transfonter.org-20210821-014225/SFProDisplay-UltralightItalic.woff') format('woff');
+    src: url('/assets/transfonter.org-20210821-014225/SFProDisplay-UltralightItalic.woff2') format('woff2'),
+    url('/assets/transfonter.org-20210821-014225/SFProDisplay-UltralightItalic.woff') format('woff');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
